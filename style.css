@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#container{
+margin: auto;
+margin-top: 30px;
+transform: translate(-0.5,-0.5);
+background-color: #ebedf0;
+width: 300px;
+height: 300px;
+}
+
+#change-color{
+margin-left: 70px;
+margin-right: 20px;
+}
+
+#screen{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+}
+  
